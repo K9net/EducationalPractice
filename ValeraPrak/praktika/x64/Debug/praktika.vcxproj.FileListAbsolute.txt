@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\praktika-master\praktika\x64\Debug\praktika.vcxprojAssemblyReference.cache
+C:\Users\Admin\Desktop\praktika-master\praktika\x64\Debug\praktika.MyForm.resources
+C:\Users\Admin\Desktop\praktika-master\praktika\x64\Debug\praktika.MyForm1.resources
+C:\Users\Admin\Desktop\praktika-master\praktika\x64\Debug\praktika.vcxproj.GenerateResource.cache
+C:\Users\Lana\Downloads\pr-main\praktika-master\praktika\x64\Debug\praktika.vcxprojAssemblyReference.cache
+C:\Users\Lana\Downloads\pr-main\praktika-master\praktika\x64\Debug\praktika.MyForm.resources
+C:\Users\Lana\Downloads\pr-main\praktika-master\praktika\x64\Debug\praktika.MyForm1.resources
+C:\Users\Lana\Downloads\pr-main\praktika-master\praktika\x64\Debug\praktika.vcxproj.GenerateResource.cache
+C:\Users\Valer04ka\Desktop\LanaP\praktika\x64\Debug\praktika.vcxprojAssemblyReference.cache
+C:\Users\Valer04ka\Desktop\LanaP\praktika\x64\Debug\praktika.MyForm.resources
+C:\Users\Valer04ka\Desktop\LanaP\praktika\x64\Debug\praktika.MyForm1.resources
+C:\Users\Valer04ka\Desktop\LanaP\praktika\x64\Debug\praktika.vcxproj.GenerateResource.cache
+C:\Users\Valer04ka\Desktop\ValeraPrak\praktika\x64\Debug\praktika.vcxprojAssemblyReference.cache
+C:\Users\Valer04ka\Desktop\ValeraPrak\praktika\x64\Debug\praktika.MyForm.resources
+C:\Users\Valer04ka\Desktop\ValeraPrak\praktika\x64\Debug\praktika.MyForm1.resources
+C:\Users\Valer04ka\Desktop\ValeraPrak\praktika\x64\Debug\praktika.vcxproj.GenerateResource.cache
